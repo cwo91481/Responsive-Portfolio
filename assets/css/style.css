@@ -1,0 +1,387 @@
+
+ 
+body{
+    background-image: url(http://artisanironworksllc.com/wp-content/uploads/2013/06/css-background-tile-image-81111.png);
+    margin-bottom: 0px; 
+
+}
+
+nav{background-color: white;
+margin:zero;
+padding: 35px;
+margin-top: -11px;
+margin-left: -15px; 
+margin-right: -15px;
+padding-bottom: 55px; 
+}
+
+a{float:right;
+margin:5px;
+margin-bottom:10px;
+font-family: 'Times New Roman', Times, serif; 
+font-size: 20px; 
+
+}
+
+h2{
+    clear: both; 
+    text-align: left;
+    border-bottom-style: solid;
+    border-bottom-width: 1px; 
+    padding-top: -10px; 
+    padding-bottom: 10px; 
+    margin: 25px; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    color: #4aaaa5; 
+
+
+}
+
+#second{
+    float: right; 
+    position: relative;
+    top: -72px;
+    right: 20px; 
+
+}
+#third{
+    margin-top: 250px; 
+}
+
+#fourth{
+    position: relative;
+    right:-346px; 
+    bottom: 201px; 
+     
+   float: left;
+}
+#fifth{
+    position: relative;
+     
+     
+   float: left;
+}
+
+
+#image{
+    padding: 1px;
+    float: left;
+
+}#image1{
+    padding: 1px;
+    float:right; 
+    
+}
+#image2{
+    clear:both;
+    position: relative;
+    float: left;
+       
+
+}
+#image3{
+      
+    float: left; 
+    
+
+}
+#image4{
+    clear: both;
+    position: relative; 
+    bottom: 150px; 
+
+    
+    
+     
+}
+#banner{
+   position: relative;
+    
+    top: 195px;
+    width: 243px; 
+    padding: 8px; 
+    background-color: rgb(54, 163, 163);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: white; 
+    font-size: 18px; 
+}
+
+#banner2{
+    position: relative;
+     top: 195px;
+     right: 0px; 
+     width: 243px; 
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px; 
+}
+
+#banner3{
+    position: relative;
+    right: 257px; 
+    float: left;  
+    top: 120px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+      
+}
+#banner4{
+    position: relative;
+    right: 257px; 
+    float: right;  
+    top: 120px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+}
+
+#banner5{
+    position: relative;
+    right: 0px; 
+    float: right;  
+    bottom: 233px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+
+}
+
+h3{
+    color:#4aaaa5; 
+    border-bottom-style:solid;
+    border-bottom-width:1px; 
+    text-align: center; 
+    padding-bottom: 6px;
+}
+
+ aside{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5; 
+    float: left;
+    color: white; 
+    font-size: 25px;
+    width: 222px; 
+    height: 10px;
+    text-align: center;
+    padding: 40px;
+    margin:0px;
+    margin-left: 150px;
+    margin-bottom: 5px; 
+     
+}
+#alignleft{
+    clear: both;
+    float: left;
+    color:#777777;  
+    width: 629px;
+    height: 531px;
+    background-color:#ffffff;
+    padding: 15px;
+    text-align: center; 
+    margin: 150px;
+    margin-top: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#alignleft1{
+    clear: both;
+    float: left; 
+    color:#777777;  
+    width: 629px;
+    height: 831px;
+    background-color:#ffffff;
+    padding: 15px;
+    text-align: center; 
+    margin: 150px;
+    margin-top: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#alignleft3{
+    clear: both;
+    float: left;
+    color:#777777;  
+    width: 629px;
+    height: 531px;
+    background-color:#ffffff;
+    padding: 15px;
+    text-align: center; 
+    margin: 150px;
+    margin-top: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#paragraph{
+    clear: both; 
+    line-height: 1.5;
+   text-align:left; 
+}
+
+#alignright{
+    
+float:right;
+    background-color:white;
+   margin-right: 55px;
+   padding: 35px; 
+    margin-top: 45px;
+}
+#alignright2{
+    
+    float:right;
+        background-color:white;
+       margin-right: 55px;
+       padding: 35px; 
+        margin-top: 45px;
+    }
+    #alignright5{
+    
+        float:right;
+            background-color:white;
+           margin-right: 55px;
+           padding: 35px; 
+            margin-top: 45px;}
+    
+
+
+footer
+{clear:both;
+    background-color: rgb(63, 60, 60);
+    padding:25px;
+    color: white; 
+    text-align: center; 
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -50px; 
+    margin-top: 0px; 
+    border-style: solid;
+    border-spacing: 8px;
+    border-top-color: #4aaaa5; 
+    border-top-width: 5px;
+
+}
+#text{
+    margin: 25px;
+    width: 25px; 
+    text-align:left;
+     
+}
+#email{
+    margin: 15px; 
+    padding: 15px;
+    text-align: left;
+    margin-right:60px;
+    margin-left: 0px;
+    position: relative;
+    left: 9px; 
+
+   
+
+}
+
+#message{
+   text-align: left;
+   position: relative;
+    left: 23px; 
+}
+button{
+    padding: 5px;
+    margin: 5px; 
+
+}
+
+@media screen and (max-width: 640px){
+
+    footer{
+        width: 700px;
+    }
+     #pic{
+        
+     }
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+body {background-color: rgb(192, 122, 31);
+}
+
+
+header{
+    clear:both; 
+}
+
+#alignleft{
+float: left; 
+height: 50%;
+width: 80%; 
+margin: 0%;
+margin-left:55px;  
+}
+
+#alignright{
+    width:600px; 
+    height: 160px; 
+     padding: 0%; 
+     margin-right: 75px;
+     height: 100px; 
+       
+}
+
+#alignleft3{
+
+    margin-left: -8px;
+    width: 730px;  
+           }
+
+#alignright2{
+    float: left; 
+    width: 100%; 
+    margin: 0px; 
+    margin-left: -5px; 
+}
+
+#alignright5{
+    width:680px; 
+    margin-left: 0%; 
+    margin-right: 0%; 
+}
+
+a{
+    float:left;
+    margin-top: -17px; 
+}
+ 
+aside{
+    float:left; 
+     margin-left: 15px; 
+     width:150px; 
+}
+
+#alignleft1{
+float:left; 
+width: 720px; 
+margin: 0px; 
+
+ 
+}
+
+
+
+#image1{}
+#image2{}
+#image3{}
+#image4{}
